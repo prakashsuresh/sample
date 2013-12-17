@@ -8,8 +8,11 @@
 /.bundle
 
 # Ignore the default SQLite database.
-/config/*.yml
+
 
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+
+*.yml
